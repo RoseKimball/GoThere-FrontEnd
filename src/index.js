@@ -4,7 +4,6 @@ import reducer from "./reducer";
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import UserRoute from "./protectedRoute";
-
 import App from "./pages/App";
 import Splash from "./pages/Splash";
 
