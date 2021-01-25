@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "GoThere",
   "routes": [
     {
       "src": "^/static/(.*)",

@@ -6,7 +6,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import UserRoute from "./protectedRoute";
 import App from "./pages/App";
 import Splash from "./pages/Splash";
-
 import "mapbox-gl/dist/mapbox-gl.css";
 import * as serviceWorker from "./serviceWorker";
 
